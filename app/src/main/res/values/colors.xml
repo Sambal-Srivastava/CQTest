@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#CE55B8AE</color>
+    <color name="colorPrimaryDark">#CE47958D</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="cqLegend">#CE55B8AE</color>
+    <color name="black">#000</color>
+    <color name="white">#FFFF</color>
+</resources>

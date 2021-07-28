@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "814849221828",
+    "project_id": "cqtest-e3c6d",
+    "storage_bucket": "cqtest-e3c6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814849221828:android:5f1168d9850a723fddd591",
+        "android_client_info": {
+          "package_name": "com.apps.cqtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814849221828-j7h2gghu6rd4s8tjjq67k0eo0utnngen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmBiGZAv-YK1EoQrx_R45yN0e_QFcpoA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814849221828-j7h2gghu6rd4s8tjjq67k0eo0utnngen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CQTest</string>
+    <string name="Capture">Capture</string>
+    <string name="Upload">Upload</string>
+    <string name="empty_text_field">Text field is empty!</string>
+    <string name="clear">CLEAR</string>
+    <string name="quote">QUOTE</string>
+    <string name="info">Your uploaded images will appear here</string>
+</resources>
